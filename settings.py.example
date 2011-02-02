@@ -1,0 +1,19 @@
+### Settings
+LOGIN='<NRC user>'
+PASSWORD='<NRC password>'
+
+LOGIN_URL='https://login.nrc.nl/login'
+EPAPER_URL='http://digitaal.nrc.nl/download'
+
+MOBI_REGEX = '.*\.mobi'
+
+DOWNLOAD_DIR='downloads/'
+
+KINDLE_EMAIL = '<Kindle email>'
+SENDER_EMAIL = '<Allowed sender address>'
+
+SMTP_HOST = '<SMTP server>'
+SMTP_TTLS = False 
+SMTP_USERNAME = None 
+SMTP_PASSWORD = None
+
