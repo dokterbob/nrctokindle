@@ -1,4 +1,5 @@
 env
 *.pyo
 *.pyc
+settings.py
 
