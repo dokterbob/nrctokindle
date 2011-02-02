@@ -84,7 +84,7 @@ abs_path = path.join(DOWNLOAD_DIR, latest_filename)
 if path.isfile(abs_path):
     logger.debug('Already downloaded, bailing off')
     
-    #exit()
+    exit()
 
 else:
     logger.info('Downloading newspaper')
